@@ -10,6 +10,7 @@
 | 1.1 | Create project skeleton `garage-backend` with **standard Go layout** (`cmd/`, `internal/`, `pkg/`) | Go modules, folder conventions |
 | 1.2 | Write `cmd/garage-api/main.go` using **Gin**. Add `/healthz` GET returning `{ "status": "ok" }` | Gin basics, JSON response |
 | 1.3 | Enable **hot‑reload** with `air` or `fresh` (optional) | Faster dev loop |
+| 1.4 | Learn to render Html and Css and images and static files via gin and go  | Faster dev loop |
 
 ---
 
